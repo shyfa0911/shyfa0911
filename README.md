@@ -21,20 +21,31 @@
 ## 🛠️ Tech Stack & Tools
 
 ### 🔤 Languages
-<img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=plastic&logo=javascript&logoColor=black" height="40" /> <img src="https://img.shields.io/badge/-TypeScript-%23007acc?style=plastic&logo=typescript&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/-Go-%2300ADD8?style=plastic&logo=go&logoColor=white" height="40" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,go" />
+</a>
 
 ### 🎨 Frontend & Mobile
-<img src="https://img.shields.io/badge/-React-%2320232a?style=plastic&logo=react&logoColor=%2361DAFB" height="40" /> <img src="https://img.shields.io/badge/-Next.js-black?style=plastic&logo=next.js&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/-React_Native-%2320232a?style=plastic&logo=react&logoColor=%2361DAFB" height="40" /> <img src="https://img.shields.io/badge/-Expo-black?style=plastic&logo=expo&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/-Tailwind_CSS-%2338B2AC?style=plastic&logo=tailwind-css&logoColor=white" height="40" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,expo,tailwind" />
+</a>
 
 ### 💾 Backend & Databases
-<img src="https://img.shields.io/badge/-NPM-%23CB3837?style=plastic&logo=npm&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/-Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/-Express.js-%23404d59?style=plastic&logo=express&logoColor=%2361DAFB" height="40" /> <img src="https://img.shields.io/badge/-PostgreSQL-%23316192?style=plastic&logo=postgresql&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/-Supabase-%233ECF8E?style=plastic&logo=supabase&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/-SQLite-%2307405E?style=plastic&logo=sqlite&logoColor=white" height="40" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=npm,nodejs,express,postgres,supabase,sqlite" />
+</a>
+
 ---
 
 ## GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyfafelian&show_icons=true&theme=tokyonight" alt="Shyfa's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyfafelian&layout=compact&theme=tokyonight" alt="Shyfa's Top Languages" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=shyfafelian&show_icons=true&theme=tokyonight" alt="Shyfa's GitHub Stats" width="48%" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyfafelian&layout=compact&theme=tokyonight" alt="Shyfa's Top Languages" width="48%" />
+
 </div>
 
 ---
