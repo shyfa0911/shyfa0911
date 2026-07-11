@@ -42,17 +42,10 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyfafelian&show_icons=true&theme=tokyonight" alt="Shyfa's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyfafelian&layout=compact&theme=tokyonight" alt="Shyfa's Top Languages" width="48%" />
-</div>
-
 ## GitHub Summary & Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyfafelian&theme=tokyonight&no_bg=true&no_line=false" alt="Shyfa's Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyfa0911&theme=tokyonight&no_bg=true&no_line=false" alt="Shyfa's Activity Graph" width="100%" />
 </div>
 
 ---
