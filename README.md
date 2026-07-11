@@ -12,7 +12,7 @@
 ## Profile
 
 * **Sekolah:** SMK Taruna Bhakti Depok (Rekayasa Perangkat Lunak)
-* **Lokasi:** Depok, Indonesia
+* **Lokasi:** Jakarta, Indonesia
 * **Spesialisasi:** Frontend Development, API Integration, Database Management
 * **Keahlian Tambahan:** Blackbox Testing & Kualitas Aplikasi
 
