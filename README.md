@@ -46,7 +46,7 @@
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=shyfa0911&theme=tokyonight&column=3&margin-w=15&margin-h=15&no-bg=true" alt="Shyfa's Trophies" width="65%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shyfa0911&show_icons=true&theme=tokyonight&locale=en&hide_border=false" alt="Shyfa's GitHub Stats" width="55%" />
 
   <br />
   <br />
