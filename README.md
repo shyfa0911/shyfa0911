@@ -45,7 +45,7 @@
 ## GitHub Summary & Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyfa0911&theme=tokyonight&no_bg=true&no_line=false" alt="Shyfa's Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyfa0911&theme=tokyonight&no_bg=true&no_line=false" alt="Shyfa's Activity Graph" width="50%" />
 </div>
 
 ---
