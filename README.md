@@ -18,34 +18,36 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-### 🔤 Languages
+### Languages
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,go" />
 </a>
 
-### 🎨 Frontend & Mobile
+### Frontend & Mobile
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,expo,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,react,expo,tailwind" />
 </a>
 
-### 💾 Backend & Databases
+### Backend, Auth & Databases
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=npm,nodejs,express,postgres,supabase,sqlite" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,sqlite,supabase,postgres" />
 </a>
+
+### Tools, Platforms & Design
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=npm,git,github,postman,figma,vercel,vscode" />
+</a>
+
+> *Note: Untuk REST API, JWT, NextAuth, dan Zod diimplementasikan di dalam ekosistem tools di atas.*
 
 ---
 
 ## GitHub Analytics
 
-## 📊 GitHub Analytics
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shyfafelian&show_icons=true&theme=tokyonight" alt="Shyfa's GitHub Stats" width="48%" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyfafelian&layout=compact&theme=tokyonight" alt="Shyfa's Top Languages" width="48%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=shyfafelian&show_icons=true&theme=tokyonight" alt="Shyfa's GitHub Stats" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyfafelian&layout=compact&theme=tokyonight" alt="Shyfa's Top Languages" width="48%" />
 </div>
 
 ---
