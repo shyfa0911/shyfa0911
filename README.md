@@ -42,24 +42,17 @@
 
 ---
 
-## GitHub Status & Activity
+## GitHub Summary & Activity
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=shyfa0911&show_icons=true&theme=tokyonight&locale=en&hide_border=false" alt="Shyfa's GitHub Stats" width="55%" />
-
-  <br />
-  <br />
-
-  <img src="https://komarev.com/ghpvc/?username=shyfa0911&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views Counter" />
-
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyfa0911&theme=tokyonight&no_bg=true&no_line=false" alt="Shyfa's Activity Graph" width="80%" />
 </div>
 
 ---
 
 ## Contact & Links
 
-<div>
+<div align="center">
   
   <a href="mailto:shyfafelian700@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
